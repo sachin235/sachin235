@@ -29,13 +29,13 @@ Here are some ideas to get you started:
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/sachin491"> 
+<!-- <a href="https://www.codechef.com/users/sachin491">
    <img align="left" alt="shivam491's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+</a> -->
 
-<a href="https://codeforces.com/profile/code_ss"> 
+<!-- <a href="https://codeforces.com/profile/code_ss">
    <img align="left" alt="shivam491's Codechef" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
+</a> -->
 
 <a href="mailto:sachindtu235@gmail.com">
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
